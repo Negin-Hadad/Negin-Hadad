@@ -47,9 +47,24 @@ Public Speaking, Time Management.
 
 ---
 
+
 ## 🚀 Notable Projects
 
-* **[name](link)** – desc
+* **[Transfer Learning Medical Imaging](https://github.com/Negin-Hadad/transfer-learning-medical-imaging)** – A multi-label deep learning pipeline utilizing transfer learning and ensembles to detect retinal diseases in the ODIR dataset.
+* **[Mini Social Media Censorship]([link](https://github.com/Negin-Hadad/mini_social_exercise))** – A mock social media platform developed for the Social Computing course at the University of Oulu to explore content moderation and censorship mechanisms.
+* **[NSGA-II Feature Selection Optimizer]([link](https://github.com/Negin-Hadad/NSGA-II-feature-selection-optimizer))** – A multi-objective optimization framework using NSGA-II to balance classification accuracy and feature subset simplicity.
+* **[Helium Web Platform]([link](https://github.com/Negin-Hadad/helium))** – A modern full-stack content publishing platform built with Vue.js and Node.js for collaborative community engagement.
+* **[TNSS Lab HeadlessCMS](https://github.com/Negin-Hadad/TNSS-Lab-HeadlessCMS)** – A KeystoneJS-based headless CMS providing a flexible GraphQL API and administrative interface for complex data management.
+* **[DBMS Transaction Simulator](https://github.com/Negin-Hadad/DBMS-transaction-simulator)** – A Node.js-based DBMS simulator implementing transaction logging and savepoint-based recovery mechanisms.
+* **[CUDA ACSR SpMV Accelerator](https://github.com/Negin-Hadad/cuda-acsr-spmv-accelerator)** – A high-performance CUDA engine for sparse matrix-vector multiplication using optimized ACSR and warp-level kernels.
+* **[Parallel DBMS Engine](https://github.com/Negin-Hadad/parallel-dbms-engine)** – A high-throughput C++ DBMS engine utilizing OpenMP and SQLite to accelerate multi-threaded query execution.
+* **[Bag of Word Optimizer](https://github.com/Negin-Hadad/Bag-of-word-optimizer)** – A dual-phase Python project featuring iterative key-based clustering and Word2Vec-enhanced semantic text classification.
+* **[University of Edinburgh Web Crawler](https://github.com/Negin-Hadad/scrapy-academic-crawler)** – A Scrapy-based web crawler designed to systematically extract and structure hierarchical course data from university portals.
+* **[Strategic Chess Game](https://github.com/Negin-Hadad/Strategic-Chess-Game)** – A Java chess engine featuring Minimax search with Alpha-Beta pruning and tactical heuristic evaluation.
+* **[Kakuro CSP Solver](https://github.com/Negin-Hadad/kakuro-csp-solver)** – A Java solver for Kakuro puzzles utilizing constraint satisfaction techniques including backtracking and arc consistency.
+* **[STM32 Othello Game](https://github.com/Negin-Hadad/stm32-othello-embedded)** – An embedded C implementation of Othello for the STM32F3 Discovery board with full hardware peripheral integration.
+* **[Cool Language Compiler Design in Java](https://github.com/Negin-Hadad/cool-compiler-java)** – A multi-phase compiler for the Cool language built with Java and ANTLR 4 for advanced program structure analysis.
+* **[Allegro Go Game](https://github.com/Negin-Hadad/allegro-go-game)** – A Go game board implemented in C++ using the Allegro 5 game library.
 
 ---
 

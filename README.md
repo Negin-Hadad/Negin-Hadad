@@ -2,7 +2,7 @@
 
 🚀 Master's Student in Computer Science & Engineering - 📍 OULU, FINLAND
 
-👨🏻‍💻 Data/Software Engineer | Generative AI | NLP | Data Science
+👨🏻‍💻 Data/Software Engineer | Data Science | NLP | Generative AI
 
 ---
 

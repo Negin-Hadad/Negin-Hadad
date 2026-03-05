@@ -14,29 +14,31 @@ I’m a Master’s student in Computer Science and Engineering with a focus on A
 ## 🧩 Technical Skills
 
 ### **Languages**
-Python • TypeScript • JavaScript (ES6+) • NodeJs • Java • C • C++ • Java • Kotlin
+Python • MATLAB • R • SQL • TypeScript • JavaScript (ES6+) • NodeJs • Java • C • C++
 
 ### **Database**
 PostgreSQL • SQLite • Redis • MongoDB • Caching strategies 
 
-### **Software**
-Software Design Patterns, Software Architectures • OOP • SOLID • Design patterns • System Analysis & Architecture
+### **Data Science & ML**: 
+Scikit-Learn • PyTorch • TensorFlow • NLP • Predictive Modeling • Model Training & Evaluation • Optimization Algorithms
 
-### **Other Relevant Skills**
-API Design • Cloud-Native Workflows • Docker • Compiler Design • Machine vision • Data Structures • Data Mining • Data Analysis
- 
+### **Data Analysis & Visualization**: 
+Pandas • NumPy • Power BI • Data Analysis
+
+### **Data Engineering & Tools**: 
+ETL Pipelines • PostgreSQL • MySQL • Docker • Git • Linux • CI/CD
+
 ---
 
 ## 💼 Experience
 
 **Data/Software Engineer — Part Software Group (2021–2025)**
 
-- Collaborating with a team of eleven to develop and organize the company's data storage services and digital wallet
-implementation.
-- Technical Skills: Micro-services, Databases, Data Structures, Software Design patterns, Software architecture,
-JavaScript, NodeJS, PostgreSQL, Ubuntu Linux, Git.
-- Soft Skills: Cooperating, Team Working, Problem Solving, Event Management, Self-motivation, Self-Confidence,
-Public Speaking, Time Management.
+- Designed and maintained scalable data pipelines for processing large financial datasets used in analytics and reporting.
+- Queried and transformed data using SQL to support internal reporting and data-driven decision-making.
+- Developed automated workflows for data ingestion, transformation, and validation in production environments.
+- Collaborated with cross-functional teams to deliver reliable data solutions from ingestion to analytics layers.
+- Worked in Agile scrum teams to deliver end-to-end data services.
 
 **Software Developer Internship — Part College (2020)**
 
@@ -61,11 +63,6 @@ Public Speaking, Time Management.
 * **[DBMS Transaction Simulator](https://github.com/Negin-Hadad/DBMS-transaction-simulator)** – A Node.js-based DBMS simulator implementing transaction logging and savepoint-based recovery mechanisms.
 * **[CUDA ACSR SpMV Accelerator](https://github.com/Negin-Hadad/cuda-acsr-spmv-accelerator)** – A high-performance CUDA engine for sparse matrix-vector multiplication using optimized ACSR and warp-level kernels.
 * **[Parallel DBMS Engine](https://github.com/Negin-Hadad/parallel-dbms-engine)** – A high-throughput C++ DBMS engine utilizing OpenMP and SQLite to accelerate multi-threaded query execution.
-* **[Strategic Chess Game](https://github.com/Negin-Hadad/Strategic-Chess-Game)** – A Java chess engine featuring Minimax search with Alpha-Beta pruning and tactical heuristic evaluation.
-* **[Kakuro CSP Solver](https://github.com/Negin-Hadad/kakuro-csp-solver)** – A Java solver for Kakuro puzzles utilizing constraint satisfaction techniques including backtracking and arc consistency.
-* **[STM32 Othello Game](https://github.com/Negin-Hadad/stm32-othello-embedded)** – An embedded C implementation of Othello for the STM32F3 Discovery board with full hardware peripheral integration.
-* **[Cool Language Compiler Design in Java](https://github.com/Negin-Hadad/cool-compiler-java)** – A multi-phase compiler for the Cool language built with Java and ANTLR 4 for advanced program structure analysis.
-* **[Allegro Go Game](https://github.com/Negin-Hadad/allegro-go-game)** – A Go game board implemented in C++ using the Allegro 5 game library.
 
 ---
 

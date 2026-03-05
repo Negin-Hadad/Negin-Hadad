@@ -8,7 +8,7 @@
 
 ## ✨ About Me
 
-I’m a Master’s student in Computer Science and Engineering with a focus on Artificial Intelligence and over four years of professional experience as a Software Engineer. My interests include Machine Learning, Natural Language Processing, and building data-driven systems that address real-world challenges. I enjoy continuous learning and working on practical, impactful AI solutions.
+I’m a Master’s student in Computer Science and Engineering with a focus on Artificial Intelligence and over four years of professional experience as a Data/Software Engineer. My interests include Natural Language Processing, Machine Learning, and building data-driven systems that address real-world challenges. I enjoy continuous learning and working on practical, impactful AI solutions.
 
 ---
 ## 🧩 Technical Skills

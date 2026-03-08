@@ -19,14 +19,14 @@ Python • MATLAB • R • SQL • TypeScript • JavaScript (ES6+) • NodeJs 
 ### **Database**
 PostgreSQL • SQLite • Redis • MongoDB • Caching strategies 
 
-### **Data Science & ML**: 
-Scikit-Learn • PyTorch • TensorFlow • NLP • Predictive Modeling • Model Training & Evaluation • Optimization Algorithms
+### **Machine Learning & AI**: 
+Scikit-Learn • Transformers (Hugging Face) • PyTorch • TensorFlow • NLP • Deep Learning • Model Training & Evaluation • Optimization Algorithms
 
 ### **Data Analysis & Visualization**: 
-Pandas • NumPy • Power BI • Data Analysis
+Pandas • NumPy • Power BI • Seaborn • Matplotlib
 
 ### **Data Engineering & Tools**: 
-ETL Pipelines • PostgreSQL • MySQL • Docker • Git • Linux • CI/CD
+ETL Pipelines • Data Modeling • PostgreSQL • MySQL • Docker • Git • Linux • CI/CD
 
 ---
 

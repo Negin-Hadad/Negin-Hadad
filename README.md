@@ -51,11 +51,11 @@ ETL Pipelines • PostgreSQL • MySQL • Docker • Git • Linux • CI/CD
 
 
 ## 🚀 Notable Projects
-
+* **[Llama-sentiment-analysis](https://github.com/Negin-Hadad/llama-sentiment-analysis)** – Sentiment classification using TinyLlama prompt engineering compared with a classical TF-IDF + Logistic Regression baseline.
+* **[NSGA-II Feature Selection Optimizer]([link](https://github.com/Negin-Hadad/NSGA-II-feature-selection-optimizer))** – A multi-objective optimization framework using NSGA-II to balance classification accuracy and feature subset simplicity.
 * **[Transfer Learning Medical Imaging](https://github.com/Negin-Hadad/transfer-learning-medical-imaging)** – A multi-label deep learning pipeline utilizing transfer learning and ensembles to detect retinal diseases in the ODIR dataset.
 * **[Mini Social Media Censorship]([link](https://github.com/Negin-Hadad/mini_social_exercise))** – A mock social media platform developed for the Social Computing course at the University of Oulu to explore content moderation and censorship mechanisms.
 * **[Data Scince-Late Delivery Risk Prediction](https://github.com/Negin-Hadad/Late-Delivery-Risk-Prediction)** – A Data Scince Project which Predicts the probability of late delivery using order flow data. This is a baseline ML pipeline with logistic regression and exploratory analysis.
-* **[NSGA-II Feature Selection Optimizer]([link](https://github.com/Negin-Hadad/NSGA-II-feature-selection-optimizer))** – A multi-objective optimization framework using NSGA-II to balance classification accuracy and feature subset simplicity.
 * **[Bag of Word Optimizer](https://github.com/Negin-Hadad/Bag-of-word-optimizer)** – A dual-phase Python project featuring iterative key-based clustering and Word2Vec-enhanced semantic text classification.
 * **[University of Edinburgh Web Crawler](https://github.com/Negin-Hadad/scrapy-academic-crawler)** – A Scrapy-based web crawler designed to systematically extract and structure hierarchical course data from university portals.
 * **[Helium Web Platform]([link](https://github.com/Negin-Hadad/helium))** – A modern full-stack content publishing platform built with Vue.js and Node.js for collaborative community engagement.

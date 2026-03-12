@@ -51,6 +51,7 @@ ETL Pipelines • Data Modeling • PostgreSQL • MySQL • Docker • Git • 
 
 
 ## 🚀 Notable Projects
+* **[Micro Gesture Detection](https://github.com/Negin-Hadad/micro-gesture-detection.git)** – An end-to-end affective computing prototype designed to detect sub-second, concealed facial micro-gestures and use Large Language Models (LLMs) to contextually infer the subject's psychological state.
 * **[Llama-sentiment-analysis](https://github.com/Negin-Hadad/llama-sentiment-analysis)** – Sentiment classification using TinyLlama prompt engineering compared with a classical TF-IDF + Logistic Regression baseline.
 * **[NSGA-II Feature Selection Optimizer]([link](https://github.com/Negin-Hadad/NSGA-II-feature-selection-optimizer))** – A multi-objective optimization framework using NSGA-II to balance classification accuracy and feature subset simplicity.
 * **[Transfer Learning Medical Imaging](https://github.com/Negin-Hadad/transfer-learning-medical-imaging)** – A multi-label deep learning pipeline utilizing transfer learning and ensembles to detect retinal diseases in the ODIR dataset.

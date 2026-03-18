@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Negin Hadad
+# 👋 Hello! I'm Negin
 
 🚀 Master's Student in Computer Science & Engineering - 📍 OULU, FINLAND
 
